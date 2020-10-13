@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UsuariosLATAM>
+   <UserPais id="03" Pais="PAN" Descripcion="Panama">
+     <User id="13608" Name="ALEJANDRO CABRERA" UserName="ACABRERA" Pws="ACABRERA03" Pais="PAN"/> 
+     <User id="13616" Name="SAMUEL SAAVEDRA"   UserName="SSAVEDRA" Pws="SSAVEDRA03" Pais="PAN"/> 
+   </UserPais>
+   <UserPais id="05" Pais="PER" Descripcion="Peru">
+     <User id="15608" Name="AMADEO GARCIA"     UserName="AGARCIA"     Pws="AGARCIA05" Pais="PER"/> 
+     <User id="15616" Name="ANGELA QUIJANDRIA" UserName="AQUIJANDRIA" Pws="AQUIJANDRIA05" Pais="PER"/> 
+   </UserPais>
+</UsuariosLATAM>

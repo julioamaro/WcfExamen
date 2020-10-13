@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RiesgosLATAM>
+   <Ramo id="42" Pais="PER" Descripcion="SUMINISTRO ESTATAL">
+     <Productos id="1760" Descripcion="SERIEDAD DE OFERTA ESTATAL" Pais="PER"/> 
+     <Productos id="1761" Descripcion="LICITACION PUBLICA ESTATAL" Pais="PER"/> 
+   </Ramo>
+   <Ramo id="43" Pais="PER" Descripcion="PRESTACION SERVICIOS ESTATAL">
+    <Productos id="1762" Descripcion="CONCURSO PUBLICO ESTATAL" Pais="PER"/> 
+    <Productos id="1763" Descripcion="ADJUDICACION DIRECTA ESTATAL" Pais="PER"/> 
+   </Ramo>
+   <Ramo id="54" Pais="PAN" Descripcion="ARRENDAMIENTO">
+     <Productos id="1601" Descripcion="FIANZA DE PROPUESTA ESTATAL" Pais="PAN"/> 
+     <Productos id="1602" Descripcion="FIANZA DE PROPUESTA PRIVADA" Pais="PAN"/> 
+   </Ramo>
+   <Ramo id="55" Pais="PAN" Descripcion="CONSTRUCCION ESTATAL">
+     <Productos id="1603" Descripcion="CUMPLIMIENTO DEL CONTRATO ESTATAL" Pais="PAN"/> 
+     <Productos id="1604" Descripcion="CUMPLIMIENTO DEL CONTRATO PRIVADA" Pais="PAN"/> 
+   </Ramo>
+</RiesgosLATAM>
